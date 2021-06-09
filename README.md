@@ -1,4 +1,4 @@
-# Charge-Pump
+# High Efficiency Low Noise Charge Pump Topologies for Mobile Applications
 ## Project Report
 * Project Report is [Here](https://github.com/vasilis-moustakas/Charge-Pump/blob/main/Design_of_high_efficiency_low_noise_charge_pump_topologies_for_mobile_applications.pdf) 
 
