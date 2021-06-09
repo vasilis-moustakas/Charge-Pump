@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE cp_wrk2_lib cp_wrk2_lib
+ASSIGN cp_wrk2_lib libMode shared
